@@ -1,0 +1,44 @@
+<span id="a">tanish@roy</span>:<span id="b">~</span><span id="c">$</span> cd Tanish-Roy/<!-- laglaglaglaglaglag -->About_Us
+
+Hello 👋
+<br> 
+<h1>I'm Tanish Roy</h1> 
+<p>I'm an 18 year-old student passionate about problem solving and coding. I started programming a year and a half ago and am familiar with Python, C, and the XAMPP web dev stack. I have a couple of projects show casing my skills (check out my github!). I have always been interested in numbers and find it fascinating how they show up in our day-to-day lives. More than just numbers and data I love solving practical real-world problems as they relate to one's everyday experiences. I have recently taken a hand at studying the Machine Learning and Artificial Intelligence space. I find it facinating how this emerging industry is being applied deeply within so many aspects of our lives, altering the way we interact with the world.</p>
+
+<h3>Contact:</h3> 
+<ul>
+        <li><i class="fa fa-envelope"></i> tanishroy1963@gmail.com</li>
+        <li><i class="fa fa-phone"></i> 613-322-8951</li>
+        <li><i class="fa fa-github"></i> <a target="_blank" href="https://github.com/tanishboiiii">https://github.com/tanishboiiii</a></li>
+        <li><i class="fa fa-linkedin"></i> <a target="_blank" href="https://www.linkedin.com/in/tanish-roy-9959a4194/">https://www.linkedin.com/in/tanish-roy-9959a4194/</a></li>
+        <li><i class="fa fa-file"></i> <a target="_blank" href="Tanish-Resume.pdf">Tanish-Roy-Resume 💼</a></li>
+</ul>
+
+
+<span id="a">tanish@roy</span>:<span id="b">~</span><span id="c">$</span> cd Tanish-Roy/<!-- laglaglaglaglaglag -->Experience
+
+<h3>Virtamove</h3> 
+<ul>
+        <li>I worked a 6 month term at Virta Move, a company focused on migrating legacy server applications to new cloud environments. My role was focused on creating and implementing automated testcases for the VirtaMove software in Python, utlizing Robot Framework and Selenium inorder to do so.</li>
+</ul>
+
+<h3>Ciena</h3> 
+<ul>
+        <li><p>Worked on building testing stations, assembling electronic equipment, and programming hardware boards by using internal applications/tools. I also collaborated with team members on various internal projects and developed professional communication skills.</p></li>
+</ul>
+
+<span id="a">tanish@roy</span>:<span id="b">~</span><span id="c">$</span> cd Tanish-Roy/<!-- laglaglaglaglaglag -->Skills
+<ul>
+        <li><a>WEB DEVELOPMENT (HTML, CSS/BOOTSTRAP, JS, AJAX, PHP, MYSQL)</a></li>
+        <li><a>Python</a></li>
+        <li><a>C</a></li>
+        <li><a>DATA SCIENCE/MACHINE LEARNING (TENSORFLOW, NUMPY, PANDAS, MATPLOTLIB)</a></li>
+</ul>
+
+<span id="a">tanish@roy</span>:<span id="b">~</span><span id="c">$</span> cd Tanish-Roy/<!-- laglaglaglaglaglag -->Projects
+<ul>
+        <li>Digit Classifier Web APP <a target="_blank" href="https://github.com/tanishboiiii/Digit-Classifier"><i class="fa fa-github"></i> REPO</a></li>
+        <li>Password Manager         <a target="_blank" href="https://github.com/tanishboiiii/Password-Manager"><i class="fa fa-github"></i> REPO</a></li>
+        <li>Covid-19 Dashboard       <a target="_blank" href="https://github.com/tanishboiiii/-Ontario-Covid-19-Dashboard"><i class="fa fa-github"></i> REPO</a></li>
+</ul>
+
